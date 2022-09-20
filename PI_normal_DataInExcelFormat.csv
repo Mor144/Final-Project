@@ -1,0 +1,2 @@
+"","groups","name_of_test","p_value","W","is_normal","second_test_name","t","DF_parameter","p.value","conf.int.1","conf.int.2","mean_of_x","mean","stderr"
+"1","Grouped_LED - Single_LED","Shapiro-Wilk normality test","0.0396184914969778","0.963585390871462","normal","One Sample t-test","4.05094498371608","69","0.000131697014416097","0.0902107859863561","0.265274630010869","0.177742707998612","0","0.0438768506393199"
